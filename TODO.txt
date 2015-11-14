@@ -1,11 +1,3 @@
- - thorin's stuff
-   - hood
-     - model on chetwood
-     - silver tassel
-   - shirt:
-     - gold chain, belt
-     - show cloak on back, sides
-     - shirt white, cloak sky blue
  - gandalf outfit
    - gandalf shield: stick
    - shirt
@@ -17,7 +9,7 @@ done:
  - bombur
  - brown dwarf shorts
  - black dwarf boots
- 
+ - thorin
  
 TODO:
  
