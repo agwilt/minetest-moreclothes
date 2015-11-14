@@ -1,8 +1,16 @@
  - thorin's stuff
-   - sky blue
-   - hood has silver tassel
-   - gold chain
+   - hood
+     - model on chetwood
+     - silver tassel
+   - shirt:
+     - gold chain, belt
+     - show cloak on back, sides
+     - shirt white, cloak sky blue
  - gandalf outfit
+   - gandalf shield: stick
+   - shirt
+     - grey
+     - white scarf
    - blue hat
  
 done:
