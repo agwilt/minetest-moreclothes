@@ -1,0 +1,16 @@
+ - thorin's stuff
+   - sky blue
+   - hood has silver tassel
+   - gold chain
+ - gandalf outfit
+   - blue hat
+ 
+done:
+ - bombur
+ - brown dwarf shorts
+ - black dwarf boots
+ 
+ 
+TODO:
+ 
+fix clothes preview
