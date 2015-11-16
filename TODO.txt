@@ -4,9 +4,6 @@
      - grey
      - white scarf
    - blue hat
- - bilbo clothes: "baggins clothes"
-   - dark green velvet breeches (go to just below knees)
-   - red/yellow waistcoat w/ golden buttons over green shirt
  
 done:
  - bombur
