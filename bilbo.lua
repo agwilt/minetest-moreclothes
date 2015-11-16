@@ -6,7 +6,7 @@ local level=1
 minetest.register_tool("moreclothes:jacket_cloak_bilbo", {
 	description = "Bilbo's Jacket (wearing cloak)",
 	inventory_image = "moreclothes_inv_jacket_cloak_bilbo.png",
-	groups = {armor_torso=0, armor_heal=0, clothes=1},
+	groups = {armor_torso=0, armor_heal=0, clothes=1, clothes_torso=1},
 	wear = 0
 })
 
@@ -14,7 +14,7 @@ minetest.register_tool("moreclothes:jacket_cloak_bilbo", {
 minetest.register_tool("moreclothes:jacket_bilbo", {
 	description = "Bilbo's Jacket",
 	inventory_image = "moreclothes_inv_jacket_bilbo.png",
-	groups = {armor_torso=0, armor_heal=0, clothes=1},
+	groups = {armor_torso=0, armor_heal=0, clothes=1, clothes_torso=1},
 	wear = 0
 })
 
@@ -22,6 +22,6 @@ minetest.register_tool("moreclothes:jacket_bilbo", {
 minetest.register_tool("moreclothes:vest_bilbo", {
 	description = "Bilbo's Vest",
 	inventory_image = "moreclothes_inv_vest_bilbo.png",
-	groups = {armor_torso=0, armor_heal=0, clothes=1},
+	groups = {armor_torso=0, armor_heal=0, clothes=1, clothes_torso=1},
 	wear = 0
 })
