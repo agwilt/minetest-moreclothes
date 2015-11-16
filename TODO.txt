@@ -4,6 +4,9 @@
      - grey
      - white scarf
    - blue hat
+ - bilbo clothes: "baggins clothes"
+   - dark green velvet breeches (go to just below knees)
+   - red/yellow waistcoat w/ golden buttons over green shirt
  
 done:
  - bombur
@@ -12,5 +15,5 @@ done:
  - thorin
  
 TODO:
- 
+generic baggins clothes based on bilbo's stuff, but without dwarf coat (maybe add hat seen in bilbo's entrance hall)
 fix clothes preview
